@@ -1,0 +1,1 @@
+xelatex PlushCV.tex -pdf
